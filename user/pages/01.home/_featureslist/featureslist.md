@@ -15,7 +15,7 @@ featureslist:
     delay: "05"   
   - title: "Absolutely Free"
     icon: heart
-    content: "As aways, download Boxify for free exclusively from Codrops. If you love Boxify and want to thank me, simply buy me a beer."
+    content: "As aways, this is a test. I test a lot of things and this is one of them. Thank you for testing your code."
     link: "http://tympanus.net/codrops/?p=22554"
     text: "Read More"
     delay: "05"     
