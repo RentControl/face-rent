@@ -1,0 +1,15 @@
+email: chris@rentctrl.co
+fullname: 'Chris de Steuben'
+title: Owner
+state: enabled
+access:
+  admin:
+    super: 'true'
+    login: 'true'
+  site:
+    login: 'true'
+hashed_password: $2y$10$irPygNSNZeY.T2BuViBpu..JRumsN6FdWHApLFAUtErFBOx1urbEy
+authorized: true
+twofa_secret: DCKU746DWXE6GSSXRCVJMNWD3IQ36NCQ
+language: en
+twofa_enabled: true

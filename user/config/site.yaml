@@ -1,0 +1,28 @@
+title: 'Rent Control - Reinvent Rent'
+default_lang: en
+author:
+  name: 'Chris de Steuben'
+  email: chris@rentctrl.co
+taxonomies:
+  - category
+  - tag
+metadata:
+  description: 'Rent Control is a peer lending platform for lease deposits.'
+summary:
+  enabled: true
+  format: short
+  size: 300
+  delimiter: '==='
+blog:
+  route: /blog
+header:
+  title: 'Welcome to Rent Control. The first peer lending platform for lease deposits.'
+  buttons:
+    -
+      text: 'For Property Managers'
+      link: 'http://rentctrl.co'
+      class: 'use-btn animated fadeInUp'
+    -
+      text: 'For Renters'
+      link: 'http://rentctrl.co'
+      class: 'use-btn animated fadeInUp'

@@ -1,0 +1,26 @@
+<?php
+return [
+    '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
+    'filename' => '/Users/csteuben/Github/grav-skeleton-boxify-site/user/themes/boxify/blueprints.yaml',
+    'modified' => 1508348584,
+    'data' => [
+        'name' => 'Boxify',
+        'version' => '1.1.1',
+        'description' => 'Boxify is a Grav port of One Page Website Template by Peter Finlan for Codrops.',
+        'icon' => 'group',
+        'author' => [
+            'name' => 'Team Grav',
+            'email' => 'devs@getgrav.org',
+            'url' => 'http://getgrav.org'
+        ],
+        'homepage' => 'https://github.com/getgrav/grav-theme-boxify',
+        'demo' => 'http://demo.getgrav.org/boxify-skeleton',
+        'keywords' => 'boxify, theme, modern, fast, responsive, html5, css3, onepage',
+        'bugs' => 'https://github.com/getgrav/grav-theme-boxify/issues',
+        'license' => 'Free',
+        'form' => [
+            'validation' => 'strict',
+            'fields' => NULL
+        ]
+    ]
+];
